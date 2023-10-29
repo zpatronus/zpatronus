@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am zPatronus, an undergraduate majoring in ECE at UM-SJTU Joint Institute. To humans, I speak Mandarin and English; to silicon, I speak C++, C, MATLAB, HTML, js, CSS and Python.
+- 🔭 I am zPatronus, an undergraduate majoring in CS at UMich and ECE at UM-SJTU Joint Institute. To humans, I speak Mandarin and English; to silicon, I speak C++, C, MATLAB, HTML, js, CSS (Vue framework) and Python (Django and Streamlit framework).
 - ⚡ This is [my website](https://zpatronus.top/) in which you can find a short list of my projects.
 
 ![zPatronus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijunhz&count_private=true&show_icons=true&theme=dark)
