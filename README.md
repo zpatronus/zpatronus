@@ -6,7 +6,9 @@
 - </> To humans, I speak Mandarin and English; to silicon, I speak (modern) C++ (for 10+ years), C, C#, Python (Django and Streamlit framework), MATLAB, JavaScript, HTML, CSS and Vue framework. 
 - ⚡ This is [my website](https://zijuny.dev/) in which you can find a short list of my projects.
 
-![zPatronus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijunhz&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpatronus&layout=compact&theme=dark)
+
+![zPatronus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpatronus&count_private=true&show_icons=true&theme=dark)
 
 <!--
 **zijunhz/zijunhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
