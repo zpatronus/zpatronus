@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I am zPatronus, an undergraduate majoring in CS at UMich and ECE at UM-SJTU Joint Institute. To humans, I speak Mandarin and English; to silicon, I speak (modern) C++ (for 10+ years), C, C#, Python (Django and Streamlit framework), MATLAB, JavaScript, HTML, CSS and Vue framework. 
-- ⚡ This is [my website](https://zpatronus.top/) in which you can find a short list of my projects.
+- 🔭 I am Zijun Yang, an undergraduate majoring in CS at UMich and ECE at UM-SJTU Joint Institute.
+- 👨‍💻 I am currently working on [XuanTie Linux System](https://www.xrvm.com/soft-tools/os/Linux) at [DAMO Academy](https://damo.alibaba.com/?language=en) Alibaba Inc.
+- </> To humans, I speak Mandarin and English; to silicon, I speak (modern) C++ (for 10+ years), C, C#, Python (Django and Streamlit framework), MATLAB, JavaScript, HTML, CSS and Vue framework. 
+- ⚡ This is [my website](https://zijuny.dev/) in which you can find a short list of my projects.
 
 ![zPatronus's GitHub stats](https://github-readme-stats.vercel.app/api?username=zijunhz&count_private=true&show_icons=true&theme=dark)
 
