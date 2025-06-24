@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I am Zijun Yang, an undergraduate majoring in CS at UMich and ECE at UM-SJTU Joint Institute.
+- 🎓 I just guaduated from UofM with a major in CS and minor in Math!
+- 🔭 I am Zijun Yang, an undergraduate majoring in ECE at UM-SJTU Joint Institute. I will be an MSCS student in at CMU in fall 2025!
 - 👨‍💻 I worked on [XuanTie Linux System Platform](https://www.xrvm.com/soft-tools/os/Linux) at [DAMO Academy](https://damo.alibaba.com/?language=en) Alibaba Inc.
 - 🛠️ Budget dev boards are my playground, with the [Orange Pi Zero 3](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-3.html) and [LicheeRV Nano](https://wiki.sipeed.com/hardware/en/lichee/RV_Nano/1_intro.html) being my favorites!
   - There was a time when the topology looks like this: Web Server on LicheeRV Nano <-- ssh -L --> Orange Pi Zero 3 <-- frp --> My VPS <-- Cloudflare Proxy --> Client.
